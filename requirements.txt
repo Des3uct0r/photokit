@@ -1,0 +1,6 @@
+# GrabKit optional dependencies
+# 9 of 12 tools need nothing but Python itself.
+# These two power the PDF and image tools. Install everything with:
+#   pip install -r requirements.txt
+pypdf>=4.0
+Pillow>=10.0
